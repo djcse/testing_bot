@@ -18,13 +18,13 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Clone the repository
 
     ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
+    git clone https://github.com/dhananjayece244/testing_bot.git
     ```
 
-- In a terminal, navigate to `samples/javascript_nodejs/01.console-echo`
+- In a terminal, navigate to `testing_bot`
 
     ```bash
-    cd samples/javascript_nodejs/01.console-echo
+    cd testing_bot
     ```
 
 - Install modules
