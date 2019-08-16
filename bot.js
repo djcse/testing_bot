@@ -26,8 +26,8 @@ class EchoBot {
                     console.log(people[0].name);
                     for (var x in people){
                         console.log(people[x].name);
-                        console.log(people[x].PresenceStatus:);                        
-                        console.log(people[x].status);
+                        console.log(people[x].PresenceStatus);                        
+                        console.log(people[x].Status);
                     }
   
                 } catch(e) {
